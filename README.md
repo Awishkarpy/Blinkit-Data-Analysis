@@ -82,6 +82,6 @@ The project provides insights into Blinkit’s sales patterns and reveals key fa
 
 ## 📌 Author
 
-Made by [Your Name].  
+Made by Awishkar Gawli.  
 For learning and demonstration purposes.
 
